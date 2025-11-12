@@ -1,6 +1,6 @@
 Static Website Example
 ----------------------
-
+name=prathamesh
 To be used with Cloud Academy labs.
 
 
